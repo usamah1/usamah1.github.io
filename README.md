@@ -1,2 +1,2 @@
 # Code for my website.
-Develped in HTML and CSS.
+Developed in HTML and CSS.

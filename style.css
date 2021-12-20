@@ -125,12 +125,12 @@ body{
     border: none;
     font-size: 0.9rem;
     text-transform: uppercase;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     border-radius: 20px;
     padding: 0.55rem 0;
     width: 130px;
     font-weight: 600;
-    background: transparent;
+    background: #171515;
     margin: 0 0.5rem;
     cursor: pointer;
     color:#fff

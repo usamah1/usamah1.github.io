@@ -1,1 +1,2 @@
-# usamah1.github.io
+# Code for my website.
+Develped in HTML and CSS.

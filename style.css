@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 .about-left{
-    background-color: #21D4FD;
+    background-color: #12192c;
     background-image: url("assets/left_background.jpg");
     background-size: 1000px;
     display: flex;

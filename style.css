@@ -14,13 +14,15 @@ body{
 }
 .about-left{
     background-color: #21D4FD;
-    background-image: "assets/left_background.jpg";
+    background-image: url("assets/left_background.jpg");
+    background-size: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
     color:#fff
+   
 }
 .about-left-content > div{
     background: #12192c;

@@ -14,7 +14,7 @@ body{
 }
 .about-left{
     background-color: #21D4FD;
-    background-image: linear-gradient(19deg, #4bcffa 0%, #00a8ff 100%);
+    background-image: "assets/left_background.jpg";
     display: flex;
     flex-direction: column;
     align-items: center;

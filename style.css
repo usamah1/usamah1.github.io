@@ -21,7 +21,8 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    color:#fff
+    color:#fff;
+    backdrop-filter: blur(10px);
    
 }
 .about-left-content > div{

@@ -93,7 +93,7 @@ body{
     align-items: center;
     font-size: 1.2rem;
     cursor: pointer;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 .icons li:hover{
     background: #edffec;
@@ -142,20 +142,20 @@ body{
     background: #00a8ff;
     color: #fff;
     border-color: #00a8ff;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 .btn.btn-pink:hover{
-    background: transparent;
-    border-color: #fff;
-    color: #fff;
+    background: #ffff;
+    border-color: #000;
+    color: #000;
 }
 .btn.btn-white{
-    transition: all 0.5s ease-in-out;
+    transition: all 0.4s ease-in-out;
 }
 .btn.btn-white:hover{
-    background: #00a8ff;
-    border-color: #00a8ff;
-    color: #fff;
+    background: #ffff;
+    border-color: #000;
+    color: #000;
 }
 .about-para p{
     font-weight: 300;

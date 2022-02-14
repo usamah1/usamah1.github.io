@@ -65,7 +65,7 @@ body{
     margin: 2.2rem 0 0.6rem 0;
     line-height: 1.2;
     padding-bottom: 1rem;
-    border-bottom: 2px solid #00c9ff;
+    border-bottom: 2px solid #00a8ff;
 }
 .about-left-content h3{
     text-transform: none;
@@ -82,7 +82,7 @@ body{
 }
 .icons li{
     list-style-type: none;
-    background: #00c9ff;
+    background: #00a8ff;
     color: #fff;
     width: 40px;
     height: 40px;
@@ -115,7 +115,7 @@ body{
     text-transform: uppercase;
 }
 .about-right h1 span{
-    color: #00c9ff;
+    color: #00a8ff;
 }
 .about-right h2{
     font-weight: 600;
@@ -139,9 +139,9 @@ body{
     color:#fff
 }
 .btn.btn-pink{
-    background: #00c9ff;
+    background: #00a8ff;
     color: #fff;
-    border-color: #00c9ff;
+    border-color: #00a8ff;
     transition: all 0.4s ease-in-out;
 }
 .btn.btn-pink:hover{
@@ -185,6 +185,6 @@ body{
 }
 .credit a{
     text-decoration: none;
-    color:#00c9ff;
+    color:#00a8ff;
     font-weight: bold;
 } 

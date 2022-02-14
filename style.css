@@ -14,7 +14,7 @@ body{
 }
 .about-left{
     background-color: #12192c;
-    background-image: url("assets/left_background.jpg");
+    background-image:linear-gradient(19deg, #273c75 10%, #00c9ff 100%);
     background-size: 1000px;
     display: flex;
     flex-direction: column;
@@ -68,7 +68,7 @@ body{
     border-bottom: 2px solid #00a8ff;
 }
 .about-left-content h3{
-    text-transform: uppercase;
+    text-transform: none;
     font-weight: 300;
     letter-spacing: 5px;
     margin-top: 1.2rem;

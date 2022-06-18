@@ -14,7 +14,7 @@ body{
 }
 .about-left{
     background-color: #12192c;
-    background-image:linear-gradient(19deg, #303F9F 10%, #29B6F6 60%);
+    background-image:linear-gradient(19deg, #273c75 10%, #00a8ff 60%);
     background-size: 1000px;
     display: flex;
     flex-direction: column;
@@ -65,7 +65,7 @@ body{
     margin: 2.2rem 0 0.6rem 0;
     line-height: 1.2;
     padding-bottom: 1rem;
-    border-bottom: 2px solid #29B6F6;
+    border-bottom: 2px solid #00a8ff;
 }
 .about-left-content h3{
     text-transform: none;
@@ -82,7 +82,7 @@ body{
 }
 .icons li{
     list-style-type: none;
-    background: #29B6F6;
+    background: #00a8ff;
     color: #fff;
     width: 40px;
     height: 40px;
@@ -115,7 +115,7 @@ body{
     text-transform: uppercase;
 }
 .about-right h1 span{
-    color: #29B6F6;
+    color: #00a8ff;
 }
 .about-right h2{
     font-weight: 600;
@@ -139,9 +139,9 @@ body{
     color:#fff
 }
 .btn.btn-pink{
-    background: #29B6F6;
+    background: #00a8ff;
     color: #fff;
-    border-color: #29B6F6;
+    border-color: #00a8ff;
     transition: all 0.4s ease-in-out;
 }
 .btn.btn-pink:hover{
